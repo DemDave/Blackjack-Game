@@ -13,7 +13,7 @@ If we succeed with this, it will give anyone who wants to become a software deve
 The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
 
-
+## Dave Intro
 Hey, Dave here. If you have any questions or enquiries on any of the applications/websites/games that I make, don't be afraid to give me a message on discord @daviddedank6
 I am currently learning different programming languages and making small projects along the way. So, if you can, have a look at what I make and let me know if its any good :D
 
